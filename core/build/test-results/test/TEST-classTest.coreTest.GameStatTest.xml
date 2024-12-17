@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="classTest.coreTest.GameStatTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-11-27T15:52:11" hostname="fedora" time="0.015">
+  <properties/>
+  <testcase name="testRemoveGolds" classname="classTest.coreTest.GameStatTest" time="0.01"/>
+  <testcase name="testAddGolds" classname="classTest.coreTest.GameStatTest" time="0.001"/>
+  <testcase name="testInitialValues" classname="classTest.coreTest.GameStatTest" time="0.002"/>
+  <system-out><![CDATA[
+=== Setup: Initializing tests for GameStat ===
+
+Initialized a new GameStat instance with default values.
+=== Test: Remove Golds ===
+Initial Golds: 0
+Added 100 Golds. Current Golds: 100
+Removed 50 Golds. Current Golds: 50
+Attempted to remove 60 Golds. Current Golds: 0
+Test Passed: Golds were removed successfully without going negative.
+
+=== Teardown: Test completed. Cleaning up. ===
+
+Initialized a new GameStat instance with default values.
+=== Test: Add Golds ===
+Initial Golds: 0
+Added 100 Golds. Current Golds: 100
+Test Passed: Golds were added successfully.
+
+=== Teardown: Test completed. Cleaning up. ===
+
+Initialized a new GameStat instance with default values.
+=== Test: Initial Values ===
+Initial Golds: 0
+Initial Kills: 0
+Initial Floors: 0
+First Game Flag: true
+Test Passed: All initial values are correct.
+
+=== Teardown: Test completed. Cleaning up. ===
+
+
+=== Teardown: All tests completed for GameStat ===
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

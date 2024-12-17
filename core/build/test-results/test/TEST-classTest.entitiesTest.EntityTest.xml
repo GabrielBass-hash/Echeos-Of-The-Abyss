@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="classTest.entitiesTest.EntityTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2024-11-27T15:52:11" hostname="fedora" time="0.012">
+  <properties/>
+  <testcase name="testApplyGravityWhileJumping" classname="classTest.entitiesTest.EntityTest" time="0.003"/>
+  <testcase name="testReceiveDamage" classname="classTest.entitiesTest.EntityTest" time="0.0"/>
+  <testcase name="testJumpWhenNotJumping" classname="classTest.entitiesTest.EntityTest" time="0.001"/>
+  <testcase name="testIsHorizontallyAlignedExactBoundary" classname="classTest.entitiesTest.EntityTest" time="0.001"/>
+  <testcase name="testIsCollidingWithAttackRange" classname="classTest.entitiesTest.EntityTest" time="0.0"/>
+  <testcase name="testCheckOnFloor" classname="classTest.entitiesTest.EntityTest" time="0.001"/>
+  <testcase name="testIsNotCollidingWhenNoHorizontalOverlap" classname="classTest.entitiesTest.EntityTest" time="0.0"/>
+  <testcase name="testIsNotCollidingBeyondAttackRange" classname="classTest.entitiesTest.EntityTest" time="0.0"/>
+  <testcase name="testVerticalAlignment" classname="classTest.entitiesTest.EntityTest" time="0.0"/>
+  <testcase name="testIsHorizontallyAlignedLookingLeft" classname="classTest.entitiesTest.EntityTest" time="0.001"/>
+  <testcase name="testIsCollidingWhenEntitiesOverlap" classname="classTest.entitiesTest.EntityTest" time="0.001"/>
+  <testcase name="testIsNotCollidingWhenNoVerticalOverlap" classname="classTest.entitiesTest.EntityTest" time="0.0"/>
+  <testcase name="testIsAlive" classname="classTest.entitiesTest.EntityTest" time="0.001"/>
+  <testcase name="testMoveLaterally" classname="classTest.entitiesTest.EntityTest" time="0.0"/>
+  <testcase name="testIsHorizontallyAlignedLookingRight" classname="classTest.entitiesTest.EntityTest" time="0.0"/>
+  <system-out><![CDATA[
+=== Setup: Initializing tests for Entity===
+
+Initialized a new Entity instance with default values.
+=== Test: testApplyGravityWhileJumping ===
+14.0
+=== After: Test completed. Cleaning up. ===
+
+Initialized a new Entity instance with default values.
+=== Test: testReceiveDamage ===
+=== After: Test completed. Cleaning up. ===
+
+Initialized a new Entity instance with default values.
+=== Test: testJumpWhenNotJumping ===
+=== After: Test completed. Cleaning up. ===
+
+Initialized a new Entity instance with default values.
+=== Test: testIsHorizontallyAlignedExactBoundary ===
+=== After: Test completed. Cleaning up. ===
+
+Initialized a new Entity instance with default values.
+=== Test: testIsCollidingWithAttackRange ===
+=== After: Test completed. Cleaning up. ===
+
+Initialized a new Entity instance with default values.
+=== Test: testCheckOnFloor ===
+=== After: Test completed. Cleaning up. ===
+
+Initialized a new Entity instance with default values.
+=== Test: testIsNotCollidingWhenNoHorizontalOverlap ===
+=== After: Test completed. Cleaning up. ===
+
+Initialized a new Entity instance with default values.
+=== Test: testIsNotCollidingBeyondAttackRange ===
+=== After: Test completed. Cleaning up. ===
+
+Initialized a new Entity instance with default values.
+=== Test: testVerticalAlignment ===
+=== After: Test completed. Cleaning up. ===
+
+Initialized a new Entity instance with default values.
+=== Test: testIsHorizontallyAlignedLookingLeft ===
+=== After: Test completed. Cleaning up. ===
+
+Initialized a new Entity instance with default values.
+=== Test: testIsCollidingWhenEntitiesOverlap ===
+=== After: Test completed. Cleaning up. ===
+
+Initialized a new Entity instance with default values.
+=== Test: testIsNotCollidingWhenNoVerticalOverlap ===
+=== After: Test completed. Cleaning up. ===
+
+Initialized a new Entity instance with default values.
+=== Test: testIsAlive ===
+=== After: Test completed. Cleaning up. ===
+
+Initialized a new Entity instance with default values.
+=== Test: testMoveLaterally ===
+=== After: Test completed. Cleaning up. ===
+
+Initialized a new Entity instance with default values.
+=== Test: testIsHorizontallyAlignedLookingRight ===
+=== After: Test completed. Cleaning up. ===
+
+
+=== AfterClass: All tests completed for Entity ===
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

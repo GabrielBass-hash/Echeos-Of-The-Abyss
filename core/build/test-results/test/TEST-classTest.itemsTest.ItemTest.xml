@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="classTest.itemsTest.ItemTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-11-27T15:52:11" hostname="fedora" time="0.002">
+  <properties/>
+  <testcase name="testGetStrGold" classname="classTest.itemsTest.ItemTest" time="0.0"/>
+  <testcase name="testSetIncreaseValue" classname="classTest.itemsTest.ItemTest" time="0.0"/>
+  <testcase name="testGetGold" classname="classTest.itemsTest.ItemTest" time="0.001"/>
+  <testcase name="testGetIncreaseValue" classname="classTest.itemsTest.ItemTest" time="0.0"/>
+  <system-out><![CDATA[
+=== Setup: Initializing tests for Item ===
+
+Initialized a new TestItem instance with default values.
+=== Test: testGetStrGold ===
+=== After: Test completed. Cleaning up. ===
+
+Initialized a new TestItem instance with default values.
+=== Test: testSetIncreaseValue ===
+=== After: Test completed. Cleaning up. ===
+
+Initialized a new TestItem instance with default values.
+=== Test: testGetGold ===
+=== After: Test completed. Cleaning up. ===
+
+Initialized a new TestItem instance with default values.
+=== Test: testGetIncreaseValue ===
+=== After: Test completed. Cleaning up. ===
+
+
+=== AfterClass: All tests completed for Item ===
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
